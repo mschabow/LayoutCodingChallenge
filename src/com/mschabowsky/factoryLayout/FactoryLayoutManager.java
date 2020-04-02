@@ -20,17 +20,13 @@ public class FactoryLayoutManager {
     NodeList parentNodes;
     HashMap<String, Node> NodeIdMap = new HashMap<>();
 
-    public FactoryLayoutManager(Path filename) throws IOException {
-
-        loadXmlLayout(filename);
+    public FactoryLayoutManager() {
 
     }
 
-    private void loadXmlLayout(Path filePath) throws IOException {
+    public void loadXmlLayout(Path filePath) throws IOException, ParserConfigurationException, SAXException {
 
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-
-        try {
 
             DocumentBuilder builder = factory.newDocumentBuilder();
             xmlDocument = builder.parse(filePath.toFile());
@@ -48,14 +44,6 @@ public class FactoryLayoutManager {
 
             }
 
-
-        }
-        catch (ParserConfigurationException e) {
-            //e.printStackTrace();
-        } catch (SAXException e) {
-            //System.out.println(e.toString());
-            //e.printStackTrace();
-        }
     }
 
     public void modifyXYValues(int x, int y){
@@ -126,8 +114,8 @@ public class FactoryLayoutManager {
     public void printItemListToConsole() {
         for (String id:NodeIdMap.keySet()) {
             System.out.println(id);
-
         }
+
 
     }
 

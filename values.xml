@@ -121,7 +121,7 @@
  	    <Start X="1531" Y="901"/> 
  	    <End X="1551" Y="901"/> 
 	</CSegment>
- 	<Turntable ID="TT16204" ReadPoint="false" Width="20" X="1563" Y="822"/> 
+ 	<Turntable ID="TT16204" ReadPoint="false" Width="20" X="1566" Y="813"/> 
 	<CSegment Width="20">
  	    <Start X="1551" Y="841"/> 
  	    <End X="1551" Y="871"/> 
@@ -131,7 +131,7 @@
  	    <Start X="1551" Y="891"/> 
  	    <End X="1551" Y="901"/> 
 	</CSegment>
- 	<Turntable ID="TT16202" ReadPoint="true" Width="20" X="1551" Y="901"/> 
+ 	<Turntable ID="TT16202" ReadPoint="true" Width="20" X="1548" Y="909"/> 
 	<CSegment Width="20">
  	    <Start X="1551" Y="901"/> 
  	    <End X="1551" Y="941"/> 
@@ -141,7 +141,7 @@
  	    <Start X="1431" Y="941"/> 
  	    <End X="1551" Y="941"/> 
 	</CSegment>
- 	<CPort ID="TS006-PM" ReadPoint="true" Width="20" X="1411" Y="941"/> 
+ 	<CPort ID="TS006-PM" ReadPoint="true" Width="20" X="1414" Y="949"/> 
 
 
 

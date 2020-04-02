@@ -1,6 +1,9 @@
 package com.mschabowsky.factoryLayout;
 
+import org.xml.sax.SAXException;
+
 import javax.annotation.processing.FilerException;
+import javax.xml.parsers.ParserConfigurationException;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Path;
@@ -23,21 +26,39 @@ public class Main {
         if (args.length > 0 && args[0] != null)
             filePath = Paths.get(args[0]);
         else filePath = Paths.get("values.xml");
+        if(Initialize(filePath)){
+            while (!end) {
+                RunProgram();
+                promptToRunAgain();
+            }
+        }
+
+
+
+
+
+    }
+
+    private static boolean Initialize(Path filePath) {
+        manager = new FactoryLayoutManager();
 
         try {
-            manager = new FactoryLayoutManager(filePath);
+
+            manager.loadXmlLayout(filePath);
+
         } catch (IOException e) {
             System.out.println("ERROR: File not found. Please enter a valid xml file name parameter.");
-            return;
+            return false;
+        } catch (SAXException e) {
+            System.out.println("ERROR: Error parsing Xml. Please check that .xml file is valid");
+            e.printStackTrace();
+            return false;
+        } catch (ParserConfigurationException e) {
+            System.out.println("ERROR: Error parsing Xml. Please check that .xml file is valid");
+            e.printStackTrace();
+            return false;
         }
-
-
-
-        while (!end) {
-            RunProgram();
-            promptToRunAgain();
-        }
-
+        return true;
     }
 
     private static void RunProgram() {
@@ -93,6 +114,7 @@ public class Main {
     private static void promptToRunAgain() {
         String resp = "";
         while (!isValidYesOrNo(resp)) {
+            System.out.println();
             System.out.println("Do you want to execute another shift? (Y/N):");
             resp = in.next();
         }
@@ -106,7 +128,6 @@ public class Main {
     private static boolean isValidYesOrNo(String shiftAll) {
         if (shiftAll.equalsIgnoreCase("y") || shiftAll.equalsIgnoreCase("n"))
             return true;
-        System.out.println("ERROR: Please enter either 'Y' or 'N'");
         return false;
     }
 
