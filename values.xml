@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><class>
+	<!-- Building 16A 2nd Floor -->
+ 	<CPort ID="TS006-PA" ReadPoint="true" Width="20" X="1211" Y="811"/> 
+	<CSegment Width="20">
+ 	    <Start X="1231" Y="811"/> 
+ 	    <End X="1271" Y="811"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PC" ReadPoint="true" Width="20" X="1211" Y="831"/> 
+	<CSegment Width="20">
+ 	    <Start X="1231" Y="831"/> 
+ 	    <End X="1271" Y="831"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PE" ReadPoint="true" Width="20" X="1211" Y="851"/> 
+	<CSegment Width="20">
+ 	    <Start X="1231" Y="851"/> 
+ 	    <End X="1271" Y="851"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PG" ReadPoint="true" Width="20" X="1211" Y="871"/> 
+	<CSegment Width="20">
+ 	    <Start X="1231" Y="871"/> 
+ 	    <End X="1271" Y="871"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PI" ReadPoint="true" Width="20" X="1211" Y="891"/> 
+	<CSegment Width="20">
+ 	    <Start X="1231" Y="891"/> 
+ 	    <End X="1271" Y="891"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PK" ReadPoint="true" Width="20" X="1211" Y="911"/> 
+	<CSegment Width="20">
+ 	    <Start X="1231" Y="911"/> 
+ 	    <End X="1271" Y="911"/> 
+	</CSegment>
+ 	<VertTransfer ID="SH16202" ReadPoint="true" Width="20" X="1271" Y="861"/> 
+	<CSegment Width="20">
+ 	    <Start X="1271" Y="811"/> 
+ 	    <End X="1271" Y="861"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1271" Y="881"/> 
+ 	    <End X="1271" Y="931"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1291" Y="821"/> 
+ 	    <End X="1311" Y="821"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1291" Y="871"/> 
+ 	    <End X="1311" Y="871"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1291" Y="901"/> 
+ 	    <End X="1311" Y="901"/> 
+	</CSegment>
+ 	<VertTransfer ID="LL02-ELA" ReadPoint="true" Width="20" X="1311" Y="821"/> 
+ 	<VertTransfer ID="LL02-ELB" ReadPoint="true" Width="20" X="1311" Y="871"/> 
+ 	<VertTransfer ID="LL02-ELC" ReadPoint="true" Width="20" X="1311" Y="901"/> 
+
+ 		<CPort ID="TS006-PB" ReadPoint="true" Width="20" X="1411" Y="811"/> 
+	<CSegment Width="20">
+ 	    <Start X="1431" Y="811"/> 
+ 	    <End X="1471" Y="811"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PD" ReadPoint="true" Width="20" X="1411" Y="831"/> 
+	<CSegment Width="20">
+ 	    <Start X="1431" Y="831"/> 
+ 	    <End X="1471" Y="831"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PF" ReadPoint="true" Width="20" X="1411" Y="851"/> 
+	<CSegment Width="20">
+ 	    <Start X="1431" Y="851"/> 
+ 	    <End X="1471" Y="851"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PH" ReadPoint="true" Width="20" X="1411" Y="871"/> 
+	<CSegment Width="20">
+ 	    <Start X="1431" Y="871"/> 
+ 	    <End X="1471" Y="871"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PJ" ReadPoint="true" Width="20" X="1411" Y="891"/> 
+	<CSegment Width="20">
+ 	    <Start X="1431" Y="891"/> 
+ 	    <End X="1471" Y="891"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PL" ReadPoint="true" Width="20" X="1411" Y="911"/> 
+	<CSegment Width="20">
+ 	    <Start X="1431" Y="911"/> 
+ 	    <End X="1471" Y="911"/> 
+	</CSegment>
+ 	<VertTransfer ID="SH16201" ReadPoint="true" Width="20" X="1471" Y="861"/> 
+	<CSegment Width="20">
+ 	    <Start X="1471" Y="811"/> 
+ 	    <End X="1471" Y="861"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1471" Y="881"/> 
+ 	    <End X="1471" Y="931"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1491" Y="821"/> 
+ 	    <End X="1511" Y="821"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1491" Y="871"/> 
+ 	    <End X="1511" Y="871"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1491" Y="901"/> 
+ 	    <End X="1511" Y="901"/> 
+	</CSegment>
+ 	<VertTransfer ID="LL02-ELA" ReadPoint="true" Width="20" X="1511" Y="821"/> 
+ 	<VertTransfer ID="LL02-ELB" ReadPoint="true" Width="20" X="1511" Y="871"/> 
+ 	<VertTransfer ID="LL02-ELC" ReadPoint="true" Width="20" X="1511" Y="901"/> 
+	<CSegment Width="20">
+ 	    <Start X="1531" Y="821"/> 
+ 	    <End X="1551" Y="821"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1531" Y="871"/> 
+ 	    <End X="1551" Y="871"/> 
+	</CSegment>
+	<CSegment Width="20">
+ 	    <Start X="1531" Y="901"/> 
+ 	    <End X="1551" Y="901"/> 
+	</CSegment>
+ 	<Turntable ID="TT16204" ReadPoint="false" Width="20" X="1563" Y="822"/> 
+	<CSegment Width="20">
+ 	    <Start X="1551" Y="841"/> 
+ 	    <End X="1551" Y="871"/> 
+	</CSegment>
+ 	<Turntable ID="TT16203" ReadPoint="true" Width="20" X="1551" Y="871"/> 
+	<CSegment Width="20">
+ 	    <Start X="1551" Y="891"/> 
+ 	    <End X="1551" Y="901"/> 
+	</CSegment>
+ 	<Turntable ID="TT16202" ReadPoint="true" Width="20" X="1551" Y="901"/> 
+	<CSegment Width="20">
+ 	    <Start X="1551" Y="901"/> 
+ 	    <End X="1551" Y="941"/> 
+	</CSegment>
+ 	<Turntable ID="TT16201" ReadPoint="false" Width="20" X="1551" Y="941"/> 
+	<CSegment Width="20">
+ 	    <Start X="1431" Y="941"/> 
+ 	    <End X="1551" Y="941"/> 
+	</CSegment>
+ 	<CPort ID="TS006-PM" ReadPoint="true" Width="20" X="1411" Y="941"/> 
+
+
+
+	
+	
+
+
+	
+</class>

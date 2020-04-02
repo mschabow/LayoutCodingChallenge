@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27a7c365-e4a6-42f8-85ab-375206408c26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/LayoutCodingChallenge" />
+  </component>
+  <component name="ProjectId" id="1ZzQgJbudBJmOFj6Fk1cGmpaAVv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/mschabowsky/factoryLayout/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.FactoryLayout.jar">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mschabowsky.factoryLayout.Main" />
+      <module name="FactoryLayout" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryLayout.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/FactoryLayout_jar/FactoryLayout.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.FactoryLayout.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.FactoryLayout.jar" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27a7c365-e4a6-42f8-85ab-375206408c26" name="Default Changelist" comment="" />
+      <created>1585839554499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585839554499</updated>
+      <workItem from="1585839568636" duration="24621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1660" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585860501489">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state x="1660" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2880.1597@0.23.2880.1597" timestamp="1585860501489" />
+    <state width="1087" height="466" key="DebuggerActiveHint" timestamp="1585847496819">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="1087" height="466" key="DebuggerActiveHint/0.23.2880.1597@0.23.2880.1597" timestamp="1585847496819" />
+    <state width="2139" height="573" key="GridCell.Tab.0.bottom" timestamp="1585867731547">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="2139" height="573" key="GridCell.Tab.0.bottom/0.23.2880.1597@0.23.2880.1597" timestamp="1585867731547" />
+    <state width="2139" height="573" key="GridCell.Tab.0.center" timestamp="1585867731547">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="2139" height="573" key="GridCell.Tab.0.center/0.23.2880.1597@0.23.2880.1597" timestamp="1585867731547" />
+    <state width="2139" height="573" key="GridCell.Tab.0.left" timestamp="1585867731547">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="2139" height="573" key="GridCell.Tab.0.left/0.23.2880.1597@0.23.2880.1597" timestamp="1585867731547" />
+    <state width="2139" height="573" key="GridCell.Tab.0.right" timestamp="1585867731547">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="2139" height="573" key="GridCell.Tab.0.right/0.23.2880.1597@0.23.2880.1597" timestamp="1585867731547" />
+    <state width="2139" height="573" key="GridCell.Tab.1.bottom" timestamp="1585867731548">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="2139" height="573" key="GridCell.Tab.1.bottom/0.23.2880.1597@0.23.2880.1597" timestamp="1585867731548" />
+    <state width="2139" height="573" key="GridCell.Tab.1.center" timestamp="1585867731548">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="2139" height="573" key="GridCell.Tab.1.center/0.23.2880.1597@0.23.2880.1597" timestamp="1585867731548" />
+    <state width="2139" height="573" key="GridCell.Tab.1.left" timestamp="1585867731548">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="2139" height="573" key="GridCell.Tab.1.left/0.23.2880.1597@0.23.2880.1597" timestamp="1585867731548" />
+    <state width="2139" height="573" key="GridCell.Tab.1.right" timestamp="1585867731548">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state width="2139" height="573" key="GridCell.Tab.1.right/0.23.2880.1597@0.23.2880.1597" timestamp="1585867731548" />
+    <state x="1648" y="403" key="SettingsEditor" timestamp="1585860943825">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state x="1648" y="403" key="SettingsEditor/0.23.2880.1597@0.23.2880.1597" timestamp="1585860943825" />
+    <state x="1130" y="654" key="com.intellij.ide.util.TipDialog" timestamp="1585839585647">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state x="1130" y="654" key="com.intellij.ide.util.TipDialog/0.23.2880.1597@0.23.2880.1597" timestamp="1585839585647" />
+    <state x="227" y="51" width="755" height="1577" key="dock-window-1" timestamp="1585852037606">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state x="227" y="51" width="755" height="1577" key="dock-window-1/0.23.2880.1597@0.23.2880.1597" timestamp="1585852037606" />
+    <state x="108" y="23" width="1157" height="1332" key="dock-window-2" timestamp="1585853983838">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state x="108" y="23" width="1157" height="1332" key="dock-window-2/0.23.2880.1597@0.23.2880.1597" timestamp="1585853983838" />
+    <state x="285" y="203" width="1157" height="1081" key="dock-window-3" timestamp="1585855920918">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state x="285" y="203" width="1157" height="1081" key="dock-window-3/0.23.2880.1597@0.23.2880.1597" timestamp="1585855920918" />
+    <state x="30" y="23" width="1157" height="1475" key="dock-window-4" timestamp="1585857285324">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state x="30" y="23" width="1157" height="1475" key="dock-window-4/0.23.2880.1597@0.23.2880.1597" timestamp="1585857285324" />
+    <state x="1825" y="393" width="670" height="676" key="search.everywhere.popup" timestamp="1585858213478">
+      <screen x="0" y="23" width="2880" height="1597" />
+    </state>
+    <state x="1825" y="393" width="670" height="676" key="search.everywhere.popup/0.23.2880.1597@0.23.2880.1597" timestamp="1585858213478" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mschabowsky/factoryLayout/FactoryLayoutManager.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mschabowsky/factoryLayout/FactoryLayoutManager.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mschabowsky/factoryLayout/FactoryLayoutManager.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
